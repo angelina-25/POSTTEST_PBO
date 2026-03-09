@@ -55,10 +55,10 @@ Compile program: jalankan program
 ![hapus menu](aset/hapus.png)
 
 ## tambah pesanan program
-![tambah pesanan menu](aset/tambahpesanan.png)
+![tambah pesanan menu](aset/tambah pesanan.png)
 
 ## lihat pesanan program
-![lihat pesanan menu](aset/lihatpesanan.png)
+![lihat pesanan menu](aset/lihat pesanan.png)
 
 ## exitprogram
 ![exit menu](aset/exit.png)
