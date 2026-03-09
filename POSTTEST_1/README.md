@@ -42,23 +42,23 @@ SISTEM PEMESANAN PIZZA ONLINE
 Compile program: jalankan program
 
 ## ss program
-## tambah program
+## tambah menu program
 ![tambah menu](aset/tambah.png)
 
-## lihat program
+## lihat menu program
 ![lihat menu](aset/lihat.png)
 
-## update program
+## update menu program
 ![update menu](aset/update.png)
 
-## hapus program
+## hapus menu program
 ![hapus menu](aset/hapus.png)
 
 ## tambah pesanan program
-![tambah pesanan menu](aset/tambah pesanan.png)
+![tambah pesanan menu](aset/tambahpesanan.png)
 
 ## lihat pesanan program
-![lihat pesanan menu](aset/lihat pesanan.png)
+![lihat pesanan menu](aset/lihatpesanan.png)
 
 ## exitprogram
 ![exit menu](aset/exit.png)
