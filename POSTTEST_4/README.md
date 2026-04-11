@@ -5,9 +5,11 @@ Program ini merupakan sistem sederhana untuk mengelola pemesanan pizza menggunak
 Program menggunakan ArrayList untuk menyimpan data dan memiliki fitur CRUD.
 
 ## Class yang Digunakan
-1. Pizza
-2. Pesanan
-3. Main
+1. Pizza(Superclass)
+2. PizzaReguler(Subclass)
+3. PizzaPremium(Subclass)
+4. Pesanan
+5. Main
 
 ## Fitur Program
 SISTEM PEMESANAN PIZZA ONLINE
@@ -37,6 +39,14 @@ SISTEM PEMESANAN PIZZA ONLINE
 - Perulangan (Loop)
 - Switch Case
 - CRUD
+- Menerapkan konsep Polymorphism (fungsi overloading dan fungsi override)
+
+## Menggunakan Inheritance
+- Superclass (Parent Class) → class induk
+- Subclass (Child Class) → class turunan Hierarchical Inheritance: Yaitu satu superclass memiliki lebih dari satu subclass.
+  Contoh pada project:
+- Pizza → PizzaReguler
+- Pizza → PizzaPremium Inheritance diterapkan pada class: 
 
 ## Cara Menjalankan Program
 Compile program: jalankan program
